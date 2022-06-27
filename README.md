@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szijjartos
-- 👀 I’m interested in cloud computing.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Artifical Intelegence.
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: szijjartos@icloud.com
 
